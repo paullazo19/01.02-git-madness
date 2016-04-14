@@ -2,13 +2,11 @@
 
 ## Instructions
 
-#This is Jimmy's second review
 
 ### Cheddars
 
-<<<<<<< HEAD
 Good food with good prices. Dinner for two and appetizer for under $30.
-=======
+
 ### Chipotle
 
 Fast Mexican food with reasonable prices. Great service.
@@ -29,7 +27,7 @@ Hot and honest burgers served with ketchup and mustards.
 
 Con is that you will received heartburn
 
+This review is for Attagirl in the King William area. Great beers on tap and amazing comfort food.
 
 
 ## Reviews
->>>>>>> master
